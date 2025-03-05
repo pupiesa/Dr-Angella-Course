@@ -1,0 +1,19 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  text-align: center;
+  color: white;
+  margin: 0;
+}
+p {
+  background-color: black;
+}
+h1 {
+  background-color: black;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
