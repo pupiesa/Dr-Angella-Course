@@ -1,19 +1,21 @@
-*, *::before, *::after {
-  box-sizing: border-box;
-}
-
-* {
-  text-align: center;
+html body {
+  background-color: black;
   color: white;
   margin: 0;
+  padding: 0;
+  /* text-align: center; */
 }
-p {
-  background-color: black;
+
+img {
+  width: 50%;
+  margin-left: 25%;
+  border: solid 0.3rem;
+  margin-top: 10%;
 }
 h1 {
-  background-color: black;
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
   font-style: normal;
+  text-transform: uppercase;
+  text-align: center;
 }
-
