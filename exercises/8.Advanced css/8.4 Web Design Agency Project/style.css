@@ -21,6 +21,7 @@ footer {
 .card img {
   height: 200px;
   float: left;
+  margin-right: 30px;
 }
 .left {
   float: left;
@@ -48,6 +49,6 @@ footer {
     text-align: center;
   }
   .logo {
-    height: 1rem ;
+    height: 1rem;
   }
 }
